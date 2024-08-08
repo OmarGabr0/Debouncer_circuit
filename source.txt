@@ -1,0 +1,5 @@
+bit_synch.v
+debouner_tb.v
+FSM.v
+timer.v
+TOP.v
