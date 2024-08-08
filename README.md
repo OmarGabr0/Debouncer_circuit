@@ -1,5 +1,5 @@
 # Debouncer_circuit
-A denouncing circuit's goal is to reduce or completely remove the effects of button bouncing. 
+A debouncing circuit's goal is to reduce or completely remove the effects of button bouncing. 
 
 only one clean and stable logic level is generated. By filtering out the bouncing noise, the denouncing circuit produces a consistent and reliable digital signal.
 
