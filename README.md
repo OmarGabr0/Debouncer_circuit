@@ -5,4 +5,5 @@ only one clean and stable logic level is generated. By filtering out the bouncin
 
 The delay detection debouncing technique: The circuit waits for a predetermined amount of time, known as the debounce delay, when a switch is pressed or released before identifying the new stable state. Any bouncing or transient changes in the switch signal are ignored during the delay period
 
-Recenlty.. This project contian only RTL design codes using verilog, and Test-bench but I may add synthesis file, formal verification file and dft   
+Recenlty.. This project contian only RTL design codes using verilog, Test-bench code and PDF file contain wave form.
+But I may add synthesis file, formal verification file and dft   
